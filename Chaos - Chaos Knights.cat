@@ -631,7 +631,7 @@
         <categoryLink id="12ab-edb7-c119-1625" name="Titanic" hidden="false" targetId="bdda-36f0-4f32-1639" primary="false"/>
         <categoryLink id="498c-c9b9-0ea0-06b4" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
         <categoryLink id="a576-97c6-5a5a-98d0" name="Ceratus Class" hidden="false" targetId="b085-e0f1-625b-4df0" primary="false"/>
-        <categoryLink id="helloworld" name="Abhorrent-Class" hidden="false" targetId="c08d-f66a-1d47-060f" primary="false"/>
+        <categoryLink id="7e85-4dcf-773c-9989" name="Abhorrent-Class" hidden="false" targetId="c08d-f66a-1d47-060f" primary="false"/>
         <categoryLink id="e5db-e04e-4094-c70e" name="Knight-Castigator" hidden="false" targetId="76eb-5dd7-314b-5d02" primary="false"/>
       </categoryLinks>
       <selectionEntries>
