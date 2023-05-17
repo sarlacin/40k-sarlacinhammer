@@ -625,12 +625,13 @@
         <infoLink id="ab38-ece2-36c7-3806" name="Harbingers of Dread" hidden="false" targetId="b409-3556-7d5e-d4c3" type="rule"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="0eca-107b-cf43-c1ba" name="New CategoryLink" hidden="false" targetId="c888f08a-6cea-4a01-8126-d374a9231554" primary="true"/>
+        <categoryLink id="0eca-107b-cf43-c1ba" name="Lord of War" hidden="false" targetId="c888f08a-6cea-4a01-8126-d374a9231554" primary="true"/>
         <categoryLink id="84e3-f1c4-8ea8-901a" name="New CategoryLink" hidden="false" targetId="5cf1-acf2-ca3b-c2e5" primary="false"/>
         <categoryLink id="c51f-5a1b-f4ad-c1a4" name="Faction: Chaos Knights" hidden="false" targetId="492c-9ae1-0205-c13f" primary="false"/>
         <categoryLink id="12ab-edb7-c119-1625" name="Titanic" hidden="false" targetId="bdda-36f0-4f32-1639" primary="false"/>
         <categoryLink id="498c-c9b9-0ea0-06b4" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
         <categoryLink id="a576-97c6-5a5a-98d0" name="Ceratus Class" hidden="false" targetId="b085-e0f1-625b-4df0" primary="false"/>
+        <categoryLink id="helloworld" name="Abhorrent-Class" hidden="false" targetId="c08d-f66a-1d47-060f" primary="false"/>
         <categoryLink id="e5db-e04e-4094-c70e" name="Knight-Castigator" hidden="false" targetId="76eb-5dd7-314b-5d02" primary="false"/>
       </categoryLinks>
       <selectionEntries>
